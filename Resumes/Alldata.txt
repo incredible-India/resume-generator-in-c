@@ -1,0 +1,116 @@
+ on Wed Nov 04 13:11:39 2020
+
+--------------------------------
+ Name : Himanshu Sharma
+--------------------------------
+First Name : Himanshu
+Last Name : Sharma
+Father Name : Satyendra Sharma
+Email : franszoom@gmail.com
+Mobile : 9795640400
+DOB : 15/6/2000Address : Near raiway station rai colony Ghazipur
+City : Ghaipur
+State : Uttar pradesh
+Skills : Python,C, Web develop ment
+
+--------------------------------
+Finish
+--------------------------------
+
+ on Wed Nov 04 13:12:51 2020
+
+--------------------------------
+ Name : Swapnil  singh
+--------------------------------
+First Name : Swapnil 
+Last Name : singh
+Father Name : Mk singh
+Email : swapnil@gmail.com
+Mobile : 9792825002
+DOB : 25/6/2000Address : near raiway station rai colony
+City : ghazipur
+State : Uttar pradesh
+Skills : Acting,Dancing
+
+--------------------------------
+Finish
+--------------------------------
+
+ on Wed Nov 04 13:14:35 2020
+
+--------------------------------
+ Name : Rishabh Sharma
+--------------------------------
+First Name : Rishabh
+Last Name : Sharma
+Father Name : S.K Sharma
+Email : rishabh399231@gmail.com
+Mobile : 8960445537
+DOB : 25/8/1998Address : Near Railway station rai colony Ghazipur
+City : Ghazipur
+State : Uttar Pradesh
+Skills : Hindi,History,Economics
+
+--------------------------------
+Finish
+--------------------------------
+
+ on Wed Nov 04 13:18:03 2020
+
+--------------------------------
+ Name : Ankita singh Singh
+--------------------------------
+First Name : Ankita singh
+Last Name : Singh
+Father Name : S>p Singh
+Email : ankita@gamil.com
+Mobile : 9863565212
+DOB : 12/5/1996Address : Lanka noukapura Ghazipur
+City : Ghazipur
+State : Uttar pradesh
+Skills : Dancing,Singing
+
+--------------------------------
+Finish
+--------------------------------
+
+ on Wed Nov 04 13:22:39 2020
+
+--------------------------------
+ Name : Abhishek Roshan
+--------------------------------
+First Name : Abhishek
+Last Name : Roshan
+Father Name : R Roshan
+Email : hishek@gmail.com
+Mobile : 9795640400
+DOB : 25/6/2000
+Address : Near Raiway Station Rai Coloni Ghazipur
+City : Ghazipur
+State : Uttar Pradesh
+Skills : Python
+
+--------------------------------
+Finish
+--------------------------------
+
+ on Wed Nov 11 18:54:09 2020
+
+--------------------------------
+ Name : Himanshu  Sharma
+--------------------------------
+First Name : Himanshu 
+Last Name : Sharma
+Father Name : S.K sharma
+Email : Himanshu399231@gnmai'
+Mobile : 9795640400
+DOB : 23/11/2000
+Address : rai colony ghazipur
+City : ghazipur
+State : Uttar Pradesh
+Skills : python,c,c++,web development 
+
+--------------------------------
+Finish
+--------------------------------
+
